@@ -35,6 +35,7 @@ const MainContextProvider = ({ children }: TChildren) => {
 
   const contextValues = {
     postData,
+    setPostData,
     stickyNav,
     setStickyNav,
     underline,
