@@ -22,8 +22,8 @@ const LeftProfile = () => {
             Shahzaib Khan
           </h2>
           <p className="w-full text-small text-para">
-            Full Stack Developer (MERN) | TypeScript | JavaScript | Logic
-            Building | Programming | Agile Development | Redux Toolkit
+            Full Stack Developer (MERN) | NEXT.js | TypeScript | JavaScript |
+            Logic Building | Programming | Agile Development | Redux Toolkit
           </p>
         </div>
         <hr className="w-full h-[0.5px] bg-black my-5" />
